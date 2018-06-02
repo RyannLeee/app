@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\context_menu_for_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_header.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\contacts_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_search_message.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\row_search_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_group_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\06eb0e75daad71c9d3dba81255ebca3adaac4e4b\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_voice_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_search_message.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_group_search_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\context_menu_for_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\06eb0e75daad71c9d3dba81255ebca3adaac4e4b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\choose_griditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_new_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_group_simle_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\06eb0e75daad71c9d3dba81255ebca3adaac4e4b\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\image_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_message.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading_data.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\layout_loading_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\fa5cc81f7aa74304c86f9a51050fb6ebb2f23288\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_member_menu.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\group_member_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_contact.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lab_details.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_lab_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_group_blacklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_owner.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\grid_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_conversation_item.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\context_menu_for_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mission_ack_user_list.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\activity_mission_ack_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mission_publish.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\activity_mission_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\context_menu_for_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\context_menu_for_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\logout_actionsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_research_room_details.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_research_room_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\fa5cc81f7aa74304c86f9a51050fb6ebb2f23288\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\row_invite_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\listview_footer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\fa5cc81f7aa74304c86f9a51050fb6ebb2f23288\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_public_groups_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_black_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\fa5cc81f7aa74304c86f9a51050fb6ebb2f23288\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\row_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_file.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\recorder_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_at_user.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_pick_at_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_ding_ack_user.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_ding_ack_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_contact_item.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\widget_contact_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_public_groups.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\neterror_item.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\neterror_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\row_add_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_location.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_apply_for_research_room.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\src\\main\\res\\layout\\activity_apply_for_research_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_media_cancel_action.xml"
+    }
+]

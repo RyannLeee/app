@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/lab_detail"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_top_bar"
+        android:background="@color/top_bar_normal_bg"
+        android:gravity="center_vertical" >
+
+        <include layout="@layout/ease_commom_back_btn" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/apply_for_research_room"
+            android:textColor="#fff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*"
+            android:divider="@drawable/line_style"
+            android:showDividers="beginning|middle|end"
+            android:orientation="vertical">
+
+            <TextView
+                android:padding="8dp"
+                android:layout_width="1dp"
+                android:text="实验室人员名单"
+                android:gravity="center"
+                tools:ignore="HardcodedText" />
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end"
+                android:orientation="horizontal">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="序号"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="姓名"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="职务"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="1"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="严立"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="主任"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="2"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="陈栋"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="老师"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="3"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="王冰"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="老师"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="4"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="李玉"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="学生"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="5"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="陈栋"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="学生"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="6"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="许丽丽"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="学生"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="7"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="赵峰"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="学生"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+            <TableRow
+                android:divider="@drawable/line_style"
+                android:showDividers="beginning|middle|end">
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="8"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="周衡"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:padding="8dp"
+                    android:layout_width="1dp"
+                    android:text="学生"
+                    android:gravity="center"
+                    tools:ignore="HardcodedText" />
+            </TableRow>
+
+        </TableLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "645061626497",
+    "firebase_url": "https://labtalk-d8cc3.firebaseio.com",
+    "project_id": "labtalk-d8cc3",
+    "storage_bucket": "labtalk-d8cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645061626497:android:cc26d277caa71459",
+        "android_client_info": {
+          "package_name": "cc.yuanlee.labtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645061626497-3k68keeh4o5056fjrjeos52rjjr28jhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cc.yuanlee.labtalk",
+            "certificate_hash": "d22eb9cbe857395cb76b03d881ef1b86e8c3067e"
+          }
+        },
+        {
+          "client_id": "645061626497-1f7c4qi4gl0cus46nvo8m4urpusep2se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZxxFX28M0XvTQG03phwzjR0hvCrdE6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645061626497-1f7c4qi4gl0cus46nvo8m4urpusep2se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
