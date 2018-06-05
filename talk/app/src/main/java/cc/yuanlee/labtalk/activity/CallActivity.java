@@ -74,7 +74,7 @@ public class CallActivity extends BaseActivity {
             @Override
             public void onRemoteOffline(final String to) {
 
-                //this function should exposed & move to Demo
+                //this function should exposed & move to App
                 EMLog.d(TAG, "onRemoteOffline, to:" + to);
                 
                 final EMMessage message = EMMessage.createTxtSendMessage("You have an incoming call", to);         
@@ -191,22 +191,6 @@ public class CallActivity extends BaseActivity {
                     try {
                         EMClient.getInstance().callManager().answerCall();
                         isAnswered = true;
-                        // meizu MX5 4G, hasDataConnection(context) return status is incorrect
-                        // MX5 con.getNetworkInfo(ConnectivityManager.TYPE_WIFI).isConnected() return false in 4G
-                        // so we will not judge it, App can decide whether judge the network status
-
-//                        if (NetUtils.hasDataConnection(CallActivity.this)) {
-//                            EMClient.getInstance().callManager().answerCall();
-//                            isAnswered = true;
-//                        } else {
-//                            runOnUiThread(new Runnable() {
-//                                public void run() {
-//                                    final String st2 = getResources().getString(R.string.Is_not_yet_connected_to_the_server);
-//                                    Toast.makeText(CallActivity.this, st2, Toast.LENGTH_SHORT).show();
-//                                }
-//                            });
-//                            throw new Exception();
-//                        }
                     } catch (Exception e) {
                         e.printStackTrace();
                         saveCallRecord();

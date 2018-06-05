@@ -65,7 +65,7 @@ public class PickContactNoCheckboxActivity extends BaseActivity {
 		contactList.clear();
 		Map<String, EaseUser> users = AppHelper.getInstance().getContactList();
 		for (Entry<String, EaseUser> entry : users.entrySet()) {
-			if (!entry.getKey().equals(Constant.NEW_FRIENDS_USERNAME) && !entry.getKey().equals(Constant.GROUP_USERNAME) && !entry.getKey().equals(Constant.CHAT_ROOM))
+			if (!entry.getKey().equals(Constant.NEW_FRIENDS_USERNAME) && !entry.getKey().equals(Constant.GROUP_USERNAME) && !entry.getKey().equals(Constant.RESEARCH_ROOM))
 				contactList.add(entry.getValue());
 		}
 		// sort

@@ -464,7 +464,7 @@ public class AppHelper {
             showToast("receive invitation to join the group：" + groupName);
             msg.setStatus(InviteMessage.InviteMessageStatus.GROUPINVITATION);
             notifyNewInviteMessage(msg);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
         }
 
         @Override
@@ -495,7 +495,7 @@ public class AppHelper {
             showToast(invitee + "Accept to join the group：" + _group == null ? groupId : _group.getGroupName());
             msg.setStatus(InviteMessage.InviteMessageStatus.GROUPINVITATION_ACCEPTED);
             notifyNewInviteMessage(msg);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
         }
         
         @Override
@@ -524,20 +524,20 @@ public class AppHelper {
             showToast(invitee + "Declined to join the group：" + group.getGroupName());
             msg.setStatus(InviteMessage.InviteMessageStatus.GROUPINVITATION_DECLINED);
             notifyNewInviteMessage(msg);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
         }
 
         @Override
         public void onUserRemoved(String groupId, String groupName) {
             //user is removed from group
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
             showToast("current user removed, groupId:" + groupId);
         }
 
         @Override
         public void onGroupDestroyed(String groupId, String groupName) {
         	// group is dismissed, 
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
             showToast("group destroyed, groupId:" + groupId);
         }
 
@@ -554,7 +554,7 @@ public class AppHelper {
             showToast(applyer + " Apply to join group：" + groupId);
             msg.setStatus(InviteMessage.InviteMessageStatus.BEAPPLYED);
             notifyNewInviteMessage(msg);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
         }
 
         @Override
@@ -575,7 +575,7 @@ public class AppHelper {
             getNotifier().vibrateAndPlayTone(msg);
 
             showToast("request to join accepted, groupId:" + groupId);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
         }
 
         @Override
@@ -600,7 +600,7 @@ public class AppHelper {
             // notify invitation message
             getNotifier().vibrateAndPlayTone(msg);
             showToast("auto accept invitation from groupId:" + groupId);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
         }
 
         // ============================= group_reform new add api begin
@@ -708,7 +708,7 @@ public class AppHelper {
             toAddUsers.put(username, user);
             localUsers.putAll(toAddUsers);
 
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANGED));
             showToast("onContactAdded:" + username);
         }
 
@@ -721,7 +721,7 @@ public class AppHelper {
 
             EMClient.getInstance().chatManager().deleteConversation(username, false);
 
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANGED));
             showToast("onContactDeleted:" + username);
         }
 
@@ -743,7 +743,7 @@ public class AppHelper {
             // set invitation status
             msg.setStatus(InviteMessage.InviteMessageStatus.BEINVITEED);
             notifyNewInviteMessage(msg);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANGED));
         }
 
         @Override
@@ -761,7 +761,7 @@ public class AppHelper {
             showToast(username + " accept your to be friend");
             msg.setStatus(InviteMessage.InviteMessageStatus.BEAGREED);
             notifyNewInviteMessage(msg);
-            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANAGED));
+            broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANGED));
         }
 
         @Override
@@ -783,7 +783,7 @@ public class AppHelper {
                     inviteMessgeDao.deleteMessage(target);
 
                     EMClient.getInstance().chatManager().deleteConversation(username, false);
-                    broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANAGED));
+                    broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANGED));
                     showToast("CONTACT_REMOVE");
                 }
                 break;
@@ -796,7 +796,7 @@ public class AppHelper {
                     }
                     localUsers.put(target, user);
                     updateContactNotificationStatus(target, "", InviteMessage.InviteMessageStatus.MULTI_DEVICE_CONTACT_ACCEPT);
-                    broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANAGED));
+                    broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANGED));
                     showToast("CONTACT_ACCEPT");
                 }
                 break;
@@ -817,7 +817,7 @@ public class AppHelper {
                     userDao.deleteContact(username);
                     inviteMessgeDao.deleteMessage(username);
                     EMClient.getInstance().chatManager().deleteConversation(username, false);
-                    broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANAGED));
+                    broadcastManager.sendBroadcast(new Intent(Constant.ACTION_CONTACT_CHANGED));
                     break;
                 case CONTACT_ALLOW:
                     updateContactNotificationStatus(target, "", InviteMessage.InviteMessageStatus.MULTI_DEVICE_CONTACT_ALLOW);
@@ -868,18 +868,18 @@ public class AppHelper {
                                 showToast("GROUP_DESTROY");
                                 inviteMessgeDao.deleteGroupMessage(groupId);
                                 saveGroupNotification(groupId, /*groupName*/"",  /*person*/"", /*reason*/"", InviteMessage.InviteMessageStatus.MULTI_DEVICE_GROUP_DESTROY);
-                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
                                 break;
                             case GROUP_JOIN:
                                 showToast("GROUP_JOIN");
-                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
                                 saveGroupNotification(groupId, /*groupName*/"",  /*person*/"", /*reason*/"", InviteMessage.InviteMessageStatus.MULTI_DEVICE_GROUP_JOIN);
                                 break;
                             case GROUP_LEAVE:
                                 showToast("GROUP_LEAVE");
                                 inviteMessgeDao.deleteGroupMessage(groupId);
                                 saveGroupNotification(groupId, /*groupName*/"",  /*person*/"", /*reason*/"", InviteMessage.InviteMessageStatus.MULTI_DEVICE_GROUP_LEAVE);
-                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
                                 break;
                             case GROUP_APPLY:
                                 showToast("GROUP_APPLY");
@@ -923,7 +923,7 @@ public class AppHelper {
                                 inviteMessgeDao.deleteMessage(groupId);
                                 // TODO: person, reason from ext
                                 saveGroupNotification(groupId, /*groupName*/"",  /*person*/"", /*reason*/"", InviteMessage.InviteMessageStatus.MULTI_DEVICE_GROUP_INVITE_ACCEPT);
-                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANAGED));
+                                broadcastManager.sendBroadcast(new Intent(Constant.ACTION_GROUP_CHANGED));
                                 break;
                             case GROUP_INVITE_DECLINE:
                                 showToast("GROUP_INVITE_DECLINE");

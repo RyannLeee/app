@@ -70,7 +70,7 @@ public class DBManager {
                 user.setNick(nick);
                 user.setAvatar(avatar);
                 if (username.equals(Constant.NEW_FRIENDS_USERNAME) || username.equals(Constant.GROUP_USERNAME)
-                        || username.equals(Constant.CHAT_ROOM)) {
+                        || username.equals(Constant.RESEARCH_ROOM)) {
                         user.setInitialLetter("");
                 } else {
                     EaseCommonUtils.setUserInitialLetter(user);

@@ -134,13 +134,13 @@ public class GroupsActivity extends BaseActivity {
 
 	void registerGroupChangeReceiver() {
 		IntentFilter intentFilter = new IntentFilter();
-		intentFilter.addAction(Constant.ACTION_GROUP_CHANAGED);
+		intentFilter.addAction(Constant.ACTION_GROUP_CHANGED);
 		BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
 
 			@Override
 			public void onReceive(Context context, Intent intent) {
 				String action = intent.getAction();
-				if(action.equals(Constant.ACTION_GROUP_CHANAGED)){
+				if(action.equals(Constant.ACTION_GROUP_CHANGED)){
 					if (EaseCommonUtils.getTopActivity(GroupsActivity.this).equals(GroupsActivity.class.getName())) {
 						refresh();
 					}

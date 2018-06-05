@@ -135,8 +135,8 @@ public class LoginActivity extends BaseActivity {
 		pd.setMessage(getString(R.string.Is_landing));
 		pd.show();
 
-		// After logout，the DemoDB may still be accessed due to async callback, so the DemoDB will be re-opened again.
-		// close it before login to make sure DemoDB not overlap
+		// After logout，the DB may still be accessed due to async callback, so the DB will be re-opened again.
+		// close it before login to make sure DB not overlap
         DBManager.getInstance().closeDB();
 
         // reset current user name before login

@@ -258,8 +258,8 @@ public class MainActivity extends BaseActivity {
 	private void registerBroadcastReceiver() {
         broadcastManager = LocalBroadcastManager.getInstance(this);
         IntentFilter intentFilter = new IntentFilter();
-        intentFilter.addAction(Constant.ACTION_CONTACT_CHANAGED);
-        intentFilter.addAction(Constant.ACTION_GROUP_CHANAGED);
+        intentFilter.addAction(Constant.ACTION_CONTACT_CHANGED);
+        intentFilter.addAction(Constant.ACTION_GROUP_CHANGED);
         broadcastReceiver = new BroadcastReceiver() {
             
             @Override
@@ -277,7 +277,7 @@ public class MainActivity extends BaseActivity {
                     }
                 }
                 String action = intent.getAction();
-                if(action.equals(Constant.ACTION_GROUP_CHANAGED)){
+                if(action.equals(Constant.ACTION_GROUP_CHANGED)){
                     if (EaseCommonUtils.getTopActivity(MainActivity.this).equals(GroupsActivity.class.getName())) {
                         GroupsActivity.instance.onResume();
                     }

@@ -236,7 +236,7 @@ public class ChatFragment extends EaseChatFragment implements EaseChatFragmentHe
     
     @Override
     public boolean onMessageBubbleClick(EMMessage message) {
-        //消息框点击事件，demo这里不做覆盖，如需覆盖，return true
+        //消息框点击事件，这里不做覆盖，如需覆盖，return true
         return false;
     }
     @Override
@@ -246,7 +246,7 @@ public class ChatFragment extends EaseChatFragment implements EaseChatFragmentHe
 
     @Override
     public void onMessageBubbleLongClick(EMMessage message) {
-    	// no message forward when in chat room
+    	// no message forward when in research room
         startActivityForResult((new Intent(getActivity(), ContextMenuActivity.class)).putExtra("message",message)
                 .putExtra("isresearchroom", chatType == EaseConstant.CHATTYPE_RESEARCHROOM),
                 REQUEST_CODE_CONTEXT_MENU);
@@ -280,7 +280,7 @@ public class ChatFragment extends EaseChatFragment implements EaseChatFragmentHe
      */
     protected void selectFileFromLocal() {
         Intent intent = null;
-        if (Build.VERSION.SDK_INT < 19) { //api 19 and later, we can't use this way, demo just select from images
+        if (Build.VERSION.SDK_INT < 19) { //api 19 and later, we can't use this way, this just select from images
             intent = new Intent(Intent.ACTION_GET_CONTENT);
             intent.setType("*/*");
             intent.addCategory(Intent.CATEGORY_OPENABLE);

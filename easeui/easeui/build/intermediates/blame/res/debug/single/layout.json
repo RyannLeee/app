@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
-        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\ease_widget_switch_button.xml"
-    },
-    {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\ease_widget_switch_button.xml"
     },
     {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -52,12 +52,12 @@
         "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\ease_row_ding_ack_user.xml"
     },
     {
-        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mission_ack_user_list.xml",
-        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\activity_mission_ack_user_list.xml"
-    },
-    {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\77372\\.android\\build-cache\\fa5cc81f7aa74304c86f9a51050fb6ebb2f23288\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mission_ack_user_list.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\activity_mission_ack_user_list.xml"
     },
     {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\ease_scroll_tab_item.xml",
@@ -124,12 +124,12 @@
         "source": "C:\\Users\\77372\\.android\\build-cache\\8941e54db9806e40f9383223baa9b695a83f50ba\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
-        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\ease_row_sent_picture.xml"
-    },
-    {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_contact_list.xml",
         "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\src\\main\\res\\layout\\ease_row_sent_picture.xml"
     },
     {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",

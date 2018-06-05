@@ -11,120 +11,497 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="377e61c9-d9cf-48eb-b40d-7808de6309d0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/debug/layout/activity_mission_ack_user_list.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/debug/layout/activity_mission_publish.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/activity_mission_ack_user_list.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/activity_mission_publish.xml" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/generated/source/r/release/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/../easeui/easeui/build/generated/source/r/release/android/support/v7/appcompat/R.java" />
       <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/blame/res/debug/single/layout.json" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/bundles/default/res/layout/activity_mission_ack_user_list.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/bundles/default/res/layout/activity_mission_ack_user_list.xml" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/bundles/default/res/layout/activity_mission_publish.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/bundles/default/res/layout/activity_mission_publish.xml" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/bundles/default/res/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/classes/release/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/classes/release/android/support/v7/appcompat/R$string.class" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/debug/layout/ease_acitivity_ding_msg_send.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/debug/layout/ease_activity_ding_ack_user_list.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/release/layout/activity_mission_ack_user_list.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/release/layout/activity_mission_ack_user_list.xml" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/release/layout/activity_mission_publish.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/release/layout/activity_mission_publish.xml" />
-      <change beforePath="$PROJECT_DIR$/../easeui/easeui/src/main/res/values-zh-rCN/ease_strings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/bundles/default/res/layout/ease_widget_chat_input_menu.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/bundles/default/res/layout/ease_widget_chat_input_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/debug/layout/ease_widget_chat_input_menu.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/debug/layout/ease_widget_chat_input_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/release/layout/ease_widget_chat_input_menu.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/build/intermediates/res/merged/release/layout/ease_widget_chat_input_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/build/outputs/aar/easeui-release.aar" afterPath="$PROJECT_DIR$/../easeui/easeui/build/outputs/aar/easeui-release.aar" />
+      <change beforePath="$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_widget_chat_input_menu.xml" afterPath="$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_widget_chat_input_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/tencent/bugly/crashreport/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/tencent/bugly/crashreport/R.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/tencent/bugly/nativecrashreport/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/tencent/bugly/nativecrashreport/R.java" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/color.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/layout.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/cc/yuanlee/labtalk/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/cc/yuanlee/labtalk/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/base/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/base/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/hyphenate/easeui/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/hyphenate/easeui/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/menu.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$10.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$11.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$4.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$7.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$8.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$9.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$MyGroupChangeListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$MyGroupChangeListener.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$MyMultiDeviceListener$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper$MyMultiDeviceListener$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/AppHelper.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/Constant.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/Constant.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$id.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$layout.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$menu.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$raw.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$string.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$style.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/R$styleable.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity$2$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity$2$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/AddContactActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/BlacklistActivity$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/BlacklistActivity$1$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/BlacklistActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/BlacklistActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$3$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$3$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$CallingState.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity$CallingState.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/CallActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ContactListFragment$ContactSyncListener$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ContactListFragment$ContactSyncListener$1$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ConversationListFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ConversationListFragment$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ConversationListFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ConversationListFragment.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ExitGroupDialog.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ExitGroupDialog.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ForwardMessageActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ForwardMessageActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupBlacklistActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupBlacklistActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupDetailsActivity$11$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupDetailsActivity$11$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupDetailsActivity$5$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupDetailsActivity$5$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSearchMessageActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSearchMessageActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSearchMessageActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSearchMessageActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSimpleDetailActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSimpleDetailActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSimpleDetailActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupSimpleDetailActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupsActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupsActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/LoginActivity$4$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/LoginActivity$4$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/LoginActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/LoginActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/MainActivity$MyContactListener$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/MainActivity$MyContactListener$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/MainActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/NewGroupActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/NewGroupActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/NewGroupActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/NewGroupActivity$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/PickAtUserActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/PickAtUserActivity$3.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/PublicGroupsSeachActivity$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/PublicGroupsSeachActivity$1$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ResearchRoomsActivity$6$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ResearchRoomsActivity$6$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ResearchRoomsActivity$6$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ResearchRoomsActivity$6$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ResearchRoomsActivity$ChatRoomAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/ResearchRoomsActivity$ChatRoomAdapter.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/SettingsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/SettingsFragment.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VideoCallActivity$2$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VideoCallActivity$2$11.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VideoCallActivity$2$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VideoCallActivity$2$4.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VideoCallActivity$2$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VideoCallActivity$2$5.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VoiceCallActivity$2$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VoiceCallActivity$2$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VoiceCallActivity$2$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VoiceCallActivity$2$4.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VoiceCallActivity$2$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/VoiceCallActivity$2$8.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/adapter/GroupAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/adapter/GroupAdapter.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/adapter/NewFriendsMsgAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/adapter/NewFriendsMsgAdapter.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupPickContactsActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/GroupPickContactsActivity.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/PickContactNoCheckboxActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/activity/PickContactNoCheckboxActivity.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/db/DBManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/db/DBManager.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/domain/EmojiconExampleGroupData.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/cc/yuanlee/labtalk/domain/EmojiconExampleGroupData.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hyphenate/easeui/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hyphenate/easeui/R$style.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hyphenate/easeui/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hyphenate/easeui/R$styleable.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tencent/bugly/crashreport/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tencent/bugly/crashreport/R$string.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tencent/bugly/nativecrashreport/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/tencent/bugly/nativecrashreport/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/base/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/base/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hyphenate/easeui/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/hyphenate/easeui/R$drawable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_mission_ack_user_list.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_mission_ack_user_list.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_mission_publish.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_mission_publish.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/em_multi_device_menu_item.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh/values-zh.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/bZtYbm5dp5QnI9oNucM2T2wq7MY=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/bZtYbm5dp5QnI9oNucM2T2wq7MY=" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/multi-dex/debug/componentClasses.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/multi-dex/debug/componentClasses.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/em_splash_logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_pick_contact_no_checkbox.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_pick_contact_no_checkbox.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/ease_widget_chat_input_menu.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/ease_widget_chat_input_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/AppHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/AppHelper.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ResearchRoomsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ResearchRoomsActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/em_multi_device_menu_item.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-zh/em_strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/em_strings.xml" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-02-15-02-58-912.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-02-21-42-09-979.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-02-22-18-24-443.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-02-22-20-39-317.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-02-22-49-20-550.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/Constant.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/Constant.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/CallActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/CallActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/GroupPickContactsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/GroupPickContactsActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/GroupsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/GroupsActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/LoginActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/PickContactNoCheckboxActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/PickContactNoCheckboxActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/db/DBManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/db/DBManager.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/em_splash_logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_contact_no_checkbox.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_contact_no_checkbox.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/em_strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/em_strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,12 +518,33 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="talk" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="talk" type="f1a62948:ProjectNode" />
+                <item name="talk" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="talk" type="f1a62948:ProjectNode" />
+                <item name="talk" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="talk" type="f1a62948:ProjectNode" />
+                <item name="talk" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -159,7 +557,83 @@
     <favorites_list name="talk" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="EaseChatFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseChatFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="870" column="0" lean-forward="true" selection-start-line="870" selection-start-column="0" selection-end-line="870" selection-end-column="0" />
+              <folding>
+                <element signature="e#6656#6657#0" expanded="true" />
+                <element signature="e#6712#6713#0" expanded="true" />
+                <element signature="e#6890#7209#0" expanded="true" />
+                <element signature="e#7208#7209#0" expanded="true" />
+                <element signature="e#11682#12762#0" expanded="true" />
+                <element signature="e#12761#12762#0" expanded="true" />
+                <element signature="e#26737#26738#0" expanded="true" />
+                <element signature="e#26784#26785#0" expanded="true" />
+                <element signature="e#27223#27262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="282" column="89" lean-forward="false" selection-start-line="282" selection-start-column="89" selection-end-line="282" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EaseChatTextPresenter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/presenter/EaseChatTextPresenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6316">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EaseShowBigImageActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseShowBigImageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EaseDingMessageHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/model/EaseDingMessageHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4500">
+              <caret line="308" column="38" lean-forward="false" selection-start-line="308" selection-start-column="38" selection-end-line="308" selection-end-column="38" />
+              <folding>
+                <element signature="e#9274#9275#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -180,6 +654,10 @@
       <find>通知</find>
       <find>Sync</find>
       <find>create</find>
+      <find>sendText</find>
+      <find>voice</find>
+      <find>emoji</find>
+      <find>ack</find>
     </findStrings>
     <replaceStrings>
       <replace>Research</replace>
@@ -3596,7 +4074,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/GroupPickContactsActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/PickContactNoCheckboxActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/db/DBManager.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/Constant.java" />
         <option value="$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseChatFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_apply_for_research_room.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lab_details.xml" />
@@ -3609,7 +4086,6 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/MyApplication.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/AddContactActivity.java" />
         <option value="$PROJECT_DIR$/app/google-services.json" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/MissionPublish.java" />
@@ -3618,7 +4094,6 @@
         <option value="$PROJECT_DIR$/../easeui/easeui/src/main/res/values-zh-rCN/ease_strings.xml" />
         <option value="$PROJECT_DIR$/../easeui/easeui/src/main/res/values/ease_strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/widget/ChatTextPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatFragment.java" />
         <option value="$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseDingMsgSendActivity.java" />
         <option value="$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/MissionPublishActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-zh/em_strings.xml" />
@@ -3631,8 +4106,14 @@
         <option value="$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/activity_mission_publish.xml" />
         <option value="$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/activity_mission_ack_user_list.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/AppHelper.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/em_strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ResearchRoomsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/CallActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/Constant.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_pick_contact_no_checkbox.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/em_strings.xml" />
+        <option value="$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_widget_chat_input_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatFragment.java" />
       </list>
     </option>
   </component>
@@ -3660,6 +4141,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="talk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="talk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="talk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
@@ -3667,6 +4166,86 @@
             <path>
               <item name="talk" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="labtalk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="labtalk" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="labtalk" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="labtalk" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="labtalk" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="labtalk" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="labtalk" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="talk" type="1abcf292:AndroidViewProjectNode" />
@@ -3686,36 +4265,118 @@
             <path>
               <item name="talk" type="1abcf292:AndroidViewProjectNode" />
               <item name="easeui" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
               <item name="talk" type="1abcf292:AndroidViewProjectNode" />
               <item name="easeui" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+              <item name="chatrow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+              <item name="emojicon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+              <item name="photoview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talk" type="1abcf292:AndroidViewProjectNode" />
+              <item name="easeui" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="cc" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="yuanlee" type="462c0819:PsiDirectoryNode" />
+              <item name="easeui" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+              <item name="presenter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="talk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="talk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="talk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="talk" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3723,7 +4384,7 @@
     <property name="android.sdk.path" value="D:/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yuan/labtalk.keystore" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.3.3" />
-    <property name="device.picker.selection" value="9d67cdf5" />
+    <property name="device.picker.selection" value="277f96e5" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="ExportApk.ApkPath" value="C:\Users\77372\Desktop\LabTalk\talk\app" />
@@ -3744,7 +4405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -3827,6 +4488,24 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration name="talk [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -3879,6 +4558,15 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android App.app" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.talk [signingReport]" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.talk [signingReport]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -3934,6 +4622,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3941,10 +4630,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5064378" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278302" sideWeight="0.5064378" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3278302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44103774" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3954,9 +4643,9 @@
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278302" sideWeight="0.49356222" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50615114" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -4007,451 +4696,483 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_groups.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/AddContactActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="116" column="19" lean-forward="true" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+          <folding>
+            <element signature="e#1753#1786#0" expanded="false" />
+            <element signature="e#3970#4841#0" expanded="false" />
+            <element signature="e#4653#4713#0" expanded="false" />
+            <element signature="e#4840#4841#0" expanded="false" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_apply_for_research_room.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="40" column="46" lean-forward="false" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lab_details.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_research_room_details.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="327" column="30" lean-forward="false" selection-start-line="327" selection-start-column="30" selection-end-line="327" selection-end-column="30" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ResearchRoomDetailsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1604">
-          <caret line="195" column="80" lean-forward="false" selection-start-line="195" selection-start-column="80" selection-end-line="195" selection-end-column="80" />
+        <state relative-caret-position="417">
+          <caret line="64" column="37" lean-forward="false" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
+          <folding>
+            <element signature="e#1899#1900#0" expanded="false" />
+            <element signature="e#1936#1937#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="175">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../easeui/easeui/libs/hyphenatechat_3.4.1.jar!/com/hyphenate/chat/EMClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="78" column="48" lean-forward="false" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/EaseConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ConversationListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="57" column="79" lean-forward="false" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/AppModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/contacts_header.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ContactListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3225">
-          <caret line="169" column="27" lean-forward="true" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/fcm/FCMMSGService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/SettingsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="74" column="22" lean-forward="false" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ApplyForResearchRoomActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="64" lean-forward="false" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/PublicGroupsSeachActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="72" column="52" lean-forward="false" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../easeui/easeui/libs/hyphenatechat_3.4.1.jar!/com/hyphenate/chat/EMContactManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_contact.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="250">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/model/EaseAtMessageHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="200" column="98" lean-forward="false" selection-start-line="200" selection-start-column="98" selection-end-line="200" selection-end-column="98" />
+        <state relative-caret-position="-975">
+          <caret line="160" column="38" lean-forward="true" selection-start-line="160" selection-start-column="38" selection-end-line="160" selection-end-column="38" />
           <folding>
-            <element signature="e#5900#5930#0" expanded="false" />
-            <element signature="e#5932#5955#0" expanded="false" />
+            <element signature="e#5260#5261#0" expanded="false" />
+            <element signature="e#5296#5297#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/MyApplication.java">
+    <entry file="jar://$PROJECT_DIR$/../easeui/easeui/libs/hyphenatechat_3.4.1.jar!/com/hyphenate/chat/EMMessage.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="273">
+          <caret line="172" column="28" lean-forward="true" selection-start-line="172" selection-start-column="28" selection-end-line="172" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/google-services.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/AddContactActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="87" column="50" lean-forward="false" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
-          <folding>
-            <element signature="e#2717#2739#0" expanded="true" />
-            <element signature="e#4883#4884#0" expanded="true" />
-            <element signature="e#4898#4899#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseBaiduMapActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="261" column="1" lean-forward="true" selection-start-line="261" selection-start-column="1" selection-end-line="261" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#8546#8547#0" expanded="false" />
-            <element signature="e#8561#8562#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/presenter/EaseChatLocationPresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#288#289#0" expanded="false" />
-            <element signature="e#324#325#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#403#404#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#480#481#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseBaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="68" column="7" lean-forward="false" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
-          <folding>
-            <element signature="e#2458#2459#0" expanded="false" />
-            <element signature="e#2482#2483#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Android/sdk/platforms/android-24/android.jar!/android/widget/BaseAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/MissionPublishActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/MissionAckUserListActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/widget/ChatTextPresenter.java" />
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/adapter/EaseMessageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="189" column="84" lean-forward="false" selection-start-line="189" selection-start-column="84" selection-end-line="189" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/GroupDetailsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="121" column="88" lean-forward="false" selection-start-line="121" selection-start-column="88" selection-end-line="121" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/presenter/EaseChatTextPresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="true" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/values-zh-rCN/ease_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="326" column="18" lean-forward="false" selection-start-line="326" selection-start-column="18" selection-end-line="326" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_group_details.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="206" column="52" lean-forward="false" selection-start-line="206" selection-start-column="52" selection-end-line="206" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/em_styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-zh/em_strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2908">
-          <caret line="321" column="0" lean-forward="false" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/MissionPublishActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/activity_mission_publish.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/activity_mission_ack_user_list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/MissionAckUserListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="36" column="62" lean-forward="false" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/AppHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="1120" column="0" lean-forward="false" selection-start-line="1120" selection-start-column="0" selection-end-line="1120" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="android-dummy://C:/Users/77372/Desktop/LabTalk/talk/app/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/em_multi_device_menu_item.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/PickAtUserActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pick_contact_no_checkbox.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
     </entry>
-    <entry file="android-dummy://C:/Users/77372/Desktop/LabTalk/talk/easeui/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor">
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/drawable-hdpi/ease_slidetab_bg_press.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ResearchRoomsActivity.java">
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/drawable-hdpi/ease_mm_title_back.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/drawable/ease_common_tab_bg.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="304" column="51" lean-forward="false" selection-start-line="304" selection-start-column="51" selection-end-line="304" selection-end-column="51" />
+        <state relative-caret-position="75">
+          <caret line="3" column="80" lean-forward="false" selection-start-line="3" selection-start-column="80" selection-end-line="3" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_commom_back_btn.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/PickContactNoCheckboxActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="70" column="15" lean-forward="true" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../easeui/easeui/libs/hyphenatechat_3.4.1.jar!/com/hyphenate/EMError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../easeui/easeui/libs/hyphenatechat_3.4.1.jar!/com/hyphenate/util/PathUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/EaseVoiceRecorderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3508">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
           <folding>
-            <element signature="e#2176#2191#0" expanded="false" />
-            <element signature="e#2482#2530#0" expanded="false" />
-            <element signature="e#3683#4951#0" expanded="false" />
-            <element signature="e#3977#4865#0" expanded="false" />
-            <element signature="e#4071#4198#0" expanded="false" />
-            <element signature="e#4197#4198#0" expanded="false" />
-            <element signature="e#4417#4610#0" expanded="false" />
-            <element signature="e#4609#4610#0" expanded="false" />
-            <element signature="e#4715#4839#0" expanded="false" />
-            <element signature="e#4838#4839#0" expanded="false" />
-            <element signature="e#4864#4865#0" expanded="false" />
-            <element signature="e#4950#4951#0" expanded="false" />
-            <element signature="e#4985#5151#0" expanded="false" />
-            <element signature="e#5150#5151#0" expanded="false" />
-            <element signature="e#5376#6004#0" expanded="false" />
-            <element signature="e#6003#6004#0" expanded="false" />
-            <element signature="e#6982#7113#0" expanded="false" />
-            <element signature="e#7112#7113#0" expanded="false" />
-            <element signature="e#7180#9528#0" expanded="false" />
-            <element signature="e#7679#8913#0" expanded="false" />
-            <element signature="e#8637#8688#0" expanded="false" />
-            <element signature="e#8912#8913#0" expanded="false" />
-            <element signature="e#9040#9484#0" expanded="false" />
-            <element signature="e#9353#9407#0" expanded="false" />
-            <element signature="e#9483#9484#0" expanded="false" />
-            <element signature="e#9527#9528#0" expanded="false" />
-            <element signature="e#11188#11200#0" expanded="false" />
+            <element signature="e#1093#1420#0" expanded="false" />
+            <element signature="e#1419#1420#0" expanded="false" />
+            <element signature="e#7865#7866#0" expanded="false" />
+            <element signature="e#7920#7921#0" expanded="false" />
+            <element signature="e#7960#7961#0" expanded="false" />
+            <element signature="e#8015#8016#0" expanded="false" />
+            <element signature="e#8051#8052#0" expanded="false" />
+            <element signature="e#8101#8102#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/values/ease_strings.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/db/InviteMessgeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="222" column="62" lean-forward="false" selection-start-line="222" selection-start-column="62" selection-end-line="222" selection-end-column="62" />
+        <state relative-caret-position="100">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/db/DbOpenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/db/DBManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="73" column="50" lean-forward="false" selection-start-line="73" selection-start-column="50" selection-end-line="73" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/model/EaseVoiceRecorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+          <folding>
+            <element signature="e#2463#3194#0" expanded="false" />
+            <element signature="e#3193#3194#0" expanded="false" />
+            <element signature="e#5181#5182#0" expanded="false" />
+            <element signature="e#5217#5218#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ForwardMessageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/EaseChatPrimaryMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3250">
+          <caret line="164" column="29" lean-forward="false" selection-start-line="164" selection-start-column="29" selection-end-line="164" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/domain/EaseEmojicon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4075">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/domain/EaseEmojiconGroupEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/emojicon/EaseEmojiconPagerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6126">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/emojicon/EaseEmojiconScrollTabBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2001">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/em_strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="241" column="30" lean-forward="false" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="30" />
+        <state relative-caret-position="281">
+          <caret line="144" column="49" lean-forward="true" selection-start-line="144" selection-start-column="49" selection-end-line="144" selection-end-column="49" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/drawable-hdpi/ee_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/model/EaseDefaultEmojiconDatas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1658">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_layout_emojicon_menu.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_layout_chat_primary_menu.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_widget_emojicon.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/emojicon/EaseEmojiconMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="48" column="61" lean-forward="false" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseShowBigImageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_fragment_chat.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/emojicon/EaseEmojiconMenuBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_widget_chat_input_menu.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/EaseChatInputMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1136">
+          <caret line="107" column="22" lean-forward="false" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+          <folding>
+            <element signature="e#3882#3883#0" expanded="false" />
+            <element signature="e#3908#3909#0" expanded="false" />
+            <element signature="e#6366#6367#0" expanded="false" />
+            <element signature="e#6414#6415#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_row_received_bigexpression.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/utils/PreferenceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/res/layout/ease_row_sent_bigexpression.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/chatrow/EaseChatRowBigExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="76" lean-forward="false" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/emojicon/EaseEmojiconIndicatorView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/model/EaseDingMessageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4500">
+          <caret line="308" column="38" lean-forward="false" selection-start-line="308" selection-start-column="38" selection-end-line="308" selection-end-column="38" />
+          <folding>
+            <element signature="e#9274#9275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6316">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Android/sdk/platforms/android-24/android.jar!/android/provider/MediaStore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Android/sdk/platforms/android-24/android.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2275">
+          <caret line="140" column="19" lean-forward="false" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
+          <folding>
+            <element signature="e#3746#3747#0" expanded="true" />
+            <element signature="e#3797#3798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/widget/presenter/EaseChatTextPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cc/yuanlee/labtalk/activity/ChatFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="282" column="89" lean-forward="false" selection-start-line="282" selection-start-column="89" selection-end-line="282" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../easeui/easeui/src/main/java/cc/yuanlee/easeui/ui/EaseChatFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="870" column="0" lean-forward="true" selection-start-line="870" selection-start-column="0" selection-end-line="870" selection-end-column="0" />
+          <folding>
+            <element signature="e#6656#6657#0" expanded="true" />
+            <element signature="e#6712#6713#0" expanded="true" />
+            <element signature="e#6890#7209#0" expanded="true" />
+            <element signature="e#7208#7209#0" expanded="true" />
+            <element signature="e#11682#12762#0" expanded="true" />
+            <element signature="e#12761#12762#0" expanded="true" />
+            <element signature="e#26737#26738#0" expanded="true" />
+            <element signature="e#26784#26785#0" expanded="true" />
+            <element signature="e#27223#27262#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
