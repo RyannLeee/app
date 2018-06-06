@@ -256,12 +256,12 @@
         "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ease_record_animate_10.png"
     },
     {
-        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
-        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ee_29.png"
-    },
-    {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
         "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ee_30.png"
+    },
+    {
+        "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
+        "source": "C:\\Users\\77372\\Desktop\\LabTalk\\easeui\\easeui\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ee_29.png"
     },
     {
         "merged": "C:\\Users\\77372\\Desktop\\LabTalk\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_gray_on.png",

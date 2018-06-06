@@ -51,7 +51,6 @@ public class GroupsActivity extends BaseActivity {
             case 1:
                 Toast.makeText(GroupsActivity.this, R.string.Failed_to_get_group_chat_information, Toast.LENGTH_LONG).show();
                 break;
-
             default:
                 break;
             }

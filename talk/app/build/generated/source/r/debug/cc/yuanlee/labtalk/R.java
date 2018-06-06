@@ -3840,10 +3840,16 @@ containing a value of this type.
         public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f08007f;
         public static final int Base_Widget_AppCompat_Toolbar=0x7f0800d2;
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f080080;
+        /**  模糊 
+         */
         public static final int HeadScale=0x7f0800d3;
         public static final int MyAlertDialog=0x7f0800d4;
         public static final int MyDialogStyle=0x7f0800d5;
+        /**  模糊 
+         */
         public static final int MyDialogStyleBottom=0x7f0800d6;
+        /**  模糊 
+         */
         public static final int MyDialogStyleTop=0x7f0800d7;
         public static final int Platform_AppCompat=0x7f08001a;
         public static final int Platform_AppCompat_Light=0x7f08001b;
